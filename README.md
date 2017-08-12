@@ -14,10 +14,12 @@ This code provides inputs for a movie website.
 
 
 ### Quick Start ###
-1. Copy all files into one directory location.
-2. Right-click and open entertainment center in IDLE
-3. Press F5 to run program
-4. Enjoy the website!
+1. Download .zip file, extract, and open folder location.
+2. Double-click _entertainment_center_ to see website generated.
+3. Right-click and edit _entertainment_center_ in IDLE
+4. Select _Run_ then _Run Module_ from the dropdown menu.
+5. View the printed statements in shell to confirm unique instance variables.
+6. Enjoy the website!
 
 ### Supported Versions ###
 This code runs on Python 2.7.13.
