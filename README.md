@@ -23,8 +23,8 @@ This code provides inputs for a movie website.
 ### Supported Versions ###
 This code runs on Python 2.7.13.
 
-###More Information ###
-- The original code is located (here) 
+### More Information ###
+The original code is located [here](https://github.com/udacity/ud036_StarterCode).
 
 ### Known Issues ###
 - No known issues at this time
@@ -33,5 +33,5 @@ This code runs on Python 2.7.13.
 Apart of the Udacity Nanodegree program
 
 ### Code Status
+ - Ready for review by Udacity staff.
 
-### License
