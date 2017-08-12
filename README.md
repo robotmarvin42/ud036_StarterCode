@@ -11,7 +11,6 @@ This code provides inputs for a movie website.
  - Known Issues
  - Contributions
  - Code Status
- - License
 
 
 ### Quick Start ###
